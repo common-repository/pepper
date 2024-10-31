@@ -1,0 +1,37 @@
+=== PEPPER ===
+Contributors: subnet
+Donate link:
+Tags: Social Media,Widget,Contact
+Requires at least: 3.3
+Tested up to: 4.6.1
+Stable tag: trunk
+License: GPLv3
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+PEPPER - A friendly contact widget for your website.
+
+== Description ==
+
+Does your website provide an easy and immediately visible way for visitors to get in touch; with YOU?
+
+With PEPPER, your website's visitors won't ever have to CTRL-F again to find that odd "contact" link! PEPPER collects all your contact info in a pretty widget – easy to find, yet unobtrusive!
+
+== Installation ==
+
+1. Upload the `pepper` directory to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Go to `Settings` -> `Pepper` to customize the widget. Click `Safe`
+4. Done - the widget is automatically displayed on your website!
+
+== Frequently asked questions ==
+
+-
+
+== Screenshots ==
+
+1. http://i.imgur.com/FT1LeCM.png
+2. http://i.imgur.com/xZKdznA.png
+
+== Changelog ==
+
+-
